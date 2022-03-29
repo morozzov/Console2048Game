@@ -1,0 +1,15 @@
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.deps.json
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.runtimeconfig.json
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.runtimeconfig.dev.json
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.dll
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ref/ConsoleGame.dll
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/bin/Debug/net5.0/ConsoleGame.pdb
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.csproj.AssemblyReference.cache
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.AssemblyInfoInputs.cache
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.AssemblyInfo.cs
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.csproj.CoreCompileInputs.cache
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.dll
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ref/ConsoleGame.dll
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.pdb
+/Users/RMG/Desktop/ConsoleGame/ConsoleGame/obj/Debug/net5.0/ConsoleGame.genruntimeconfig.cache
